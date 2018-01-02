@@ -1,0 +1,6 @@
+
+ "type": https://stellar.org/horizon-errors/bad_request
+  "title": Bad Request
+  "status": 400
+  "detail": The request you sent was invalid in some way
+  "instance": horizon-live-002/coycPd7mOQ-159816920
